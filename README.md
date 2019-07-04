@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 
 _______________________________________________________
 hello, I am adding new lines...
+_______________________________________________________
+Welcome to the world of GIT
